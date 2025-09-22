@@ -1,0 +1,5 @@
+
+DROP DATABASE IF EXISTS hanbitDB;
+CREATE DATABASE hanbitDB;
+
+
